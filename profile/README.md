@@ -21,3 +21,5 @@ Robert Kummer, Software Engineer and AI Consultant, Berlin.
 - Contact card: [robert-kummer.vcf](https://raw.githubusercontent.com/robert-kummer/media-kit/main/vcard/robert-kummer.vcf)
 
 Logos, photo and brand guidelines: [media-kit](https://github.com/robert-kummer/media-kit)
+
+[Legal notice (Impressum)](https://robert-kummer.de/impressum/)
